@@ -1,0 +1,34 @@
+{
+  "name": "FoodTruckFinder",
+  "version": "1.0.0",
+  "description": "Node, Express, MongoDB, and Backbone application for finding food trucks in Seattle",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JSCRIPT300-Spring2015/Module_8.git"
+  },
+  "author": "JSCRIPT300",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JSCRIPT300-Spring2015/Module_8/issues"
+  },
+  "homepage": "https://github.com/JSCRIPT300-Spring2015/Module_8",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "express": "^4.13.4",
+    "jquery": "^2.2.4",
+    "lodash": "^4.13.1",
+    "mongoose": "^4.4.20"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.8.0",
+    "grunt-contrib-jst": "^0.6.0"
+  }
+}
