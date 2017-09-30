@@ -30,6 +30,8 @@ run mongo YelpAPI < YelpJSON.js from the project root directory
 
 3.Run grunt from the root directory
 
+4.Run node app.js from the root directory
+
 Application Flow
 ----------------
 
